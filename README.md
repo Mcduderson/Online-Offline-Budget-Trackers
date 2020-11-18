@@ -3,7 +3,9 @@
 
   ## Description
   The user will be able to add expenses and deposits to their budget with or without a connection. The user can also download the app, which leverages PWA functionality, to their device. When entering transactions offline, they will populate the total when brought back online. Offline functionality: Enter deposits offline, enter expenses offline, when brought back online, the offline entries will be added to tracker.
-
+  
+  <a href="https://thawing-crag-17556.herokuapp.com/">Link to Deployed App</a>
+  
   ## Table of Contents
   1. [Description](#description)
   2. [Installation](#installation)
@@ -30,5 +32,7 @@
 
   ## Questions
   <a href="https://github.com/Mcduderson">GitHub Profile</a>
-  <br>
+  
   For questions I can be reached at e.payne000@gmail.com
+
+  ![Screenshot](/public/images/budgetSS.png)
